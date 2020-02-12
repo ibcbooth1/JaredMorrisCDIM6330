@@ -1,0 +1,1 @@
+The group project is being completed on https://github.com/CIDM-6330-Team-1-Project all work is done there as well as on Mendix
